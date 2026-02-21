@@ -26,7 +26,7 @@
   <a href="mailto:dhruvghildiyal030@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1FBNL6tljWEZwVGv4L-990dxgAhC9vTSf/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/16HDFVW3tM8EBQqQ8NlZSU4YBVbh1r8sR/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </div>
